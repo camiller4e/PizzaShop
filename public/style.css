@@ -1,0 +1,44 @@
+body {
+
+  background-color: #ACE0EA;
+
+  background-image: url(https://s8.favim.com/610/151014/5sos-background-cheese-collage-Favim.com-3429695.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: fixed;
+
+  text-align: center;
+  font-size: 25px;
+  font-family: papyrus;
+  text-shadow: 2px 2px pink;
+
+}
+
+div {
+
+  background-color: pink;
+  background-position: center;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding: 10px;
+  opacity: .9;
+
+}
+
+nav {
+
+  font-size: 30px;
+
+}
+
+h1 {
+
+  font-size: 60px;
+  background-color: pink;
+  background-position: center;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding: 10px;
+  opacity: .9;
+
+}
